@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-govtech-mcf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint rules used for the MyCareersFuture project",
   "main": "index.js",
   "scripts": {
@@ -22,15 +22,10 @@
   },
   "homepage": "https://github.com/GovTechSG/eslint-config-mcf#readme",
   "dependencies": {
+    "eslint": "^4.8.0",
     "eslint-config-google": "^0.9.1",
     "eslint-config-scanjs": "^1.0.0-beta4",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-scanjs-rules": "^0.2.1"
-  },
-  "peerDependencies": {
-    "eslint": ">= 4"
-  },
-  "devDependencies": {
-    "eslint": "^4.8.0"
   }
 }
