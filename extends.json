@@ -1,4 +1,4 @@
 [
   "google",
-  "./node_modules/eslint-config-scanjs/.eslintrc"
+  "eslint-config-scanjs/.eslintrc"
 ]

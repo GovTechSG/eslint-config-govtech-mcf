@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-govtech-mcf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint rules used for the MyCareersFuture project",
   "main": "index.js",
   "scripts": {
