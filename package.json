@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-govtech-mcf",
+  "version": "1.0.0",
+  "description": "ESLint rules used for the MyCareersFuture project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GovTechSG/eslint-config-mcf.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "rules"
+  ],
+  "author": "zephinzer <govtech@joeir.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GovTechSG/eslint-config-mcf/issues"
+  },
+  "homepage": "https://github.com/GovTechSG/eslint-config-mcf#readme",
+  "dependencies": {
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-scanjs": "^1.0.0-beta4",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-scanjs-rules": "^0.2.1"
+  }
+}
