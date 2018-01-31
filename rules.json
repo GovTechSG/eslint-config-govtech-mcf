@@ -7,5 +7,6 @@
   "import/no-unresolved": ["error"],
   "max-len": ["error", 127],
   "require-jsdoc": ["off"],
-  "space-infix-ops": ["error", {"int32Hint": false}]
+  "space-infix-ops": ["error", {"int32Hint": false}],
+  "no-unused-vars": ["error", {"args": "all", "argsIgnorePattern": "^_"}]
 }
