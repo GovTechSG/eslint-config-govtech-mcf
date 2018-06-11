@@ -1,4 +1,3 @@
 [
-  "eslint-config-google",
-  "eslint-config-scanjs/.eslintrc"
+  "eslint-config-google"
 ]
