@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/GovTechSG/eslint-config-mcf#readme",
   "dependencies": {
-    "eslint": "^4.8.0",
+    "eslint": "^5.0.0",
     "eslint-config-google": "^0.9.1",
     "eslint-plugin-import": "^2.7.0"
   }
